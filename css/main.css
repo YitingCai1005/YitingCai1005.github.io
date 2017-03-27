@@ -10,7 +10,7 @@ nav ul, footer ul {
 }
 
 .header {
-  background-image: url(348H.jpg);
+  background-image: url("348H.jpg");
   background-position: center center;
   background-size: cover;
   height: 700px;
