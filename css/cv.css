@@ -1,0 +1,120 @@
+
+body {
+  background-color #FFF;
+  font-family 'Raleway', sans-serif;
+  margin: 60px auto;
+  width: 60%;
+}
+
+nav ul, footer ul {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+nav ul li, footer ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+
+
+a {
+    text-decoration: none;
+    color: DimGrey;
+}
+
+
+a:hover {
+  color: DarkOliveGreen;
+  animation: ease;
+  text-decoration: underline;
+}
+
+
+
+h1 {
+  color #FFF;
+  font-size: 42px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.first {
+	color:DimGrey;
+	font-size: 16px;
+}
+
+.text {
+	color: DimGrey;
+}
+
+
+.text h2 {
+  font-size: 20px;
+  line-height: 40px;
+  padding 5px 5%;
+}
+
+h3 {
+  color rgb(68,52,62);
+  font-size 26px;
+  font-weight 700;
+  padding 20px 10%;
+  text-transform uppercase;
+}
+
+p {
+  color #333;
+  font-size 16px;
+  line-height 24px;
+  margin-top 30px;
+  text-alignjustify;
+}
+
+
+
+.content {
+  margin 0 auto;
+  padding 40px;
+  text-align center;
+  width 70%;
+}
+
+.byline {
+  border-bottom 1px solid #CCC;
+  border-top 1px solid #CCC;
+  color #333;
+  font-size 14px;
+  font-weight 200;
+  text-transform uppercase;
+  padding-bottom10px;
+  padding-top10px;
+}
+
+.share {
+  border 1px solid #DDD;
+  padding 40px 0px;
+  position relative;
+  text-align center;
+  width 100%;
+}
+
+.share a {
+  background #D7263D;
+  border 1px solid #D7263D;
+  border-radius 3px;
+  color #FFF;
+  display inline-block;
+  margin 10px 10px;
+  padding 14px;
+  text-transform uppercase;
+  text-decoration none;
+}
+
+.share ahover {
+  background #FFF;
+  border 1px solid #D7263D;
+  color #D7263D;
+  animation ease;
+}
