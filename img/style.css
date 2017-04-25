@@ -1,0 +1,15 @@
+.content{
+	text-align: center
+}
+footer {
+	position:fixed;
+	bottom:0px;
+    border-top: 1px solid #d5d5d5;
+    font-size: .8em;
+	text-align: center;
+}
+
+body {
+    margin: 60px auto;
+    width: 70%;
+}
